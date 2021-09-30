@@ -2,7 +2,4 @@ Just some steps for fun
 which I need to modify
 And want to see all the changes
 Nd now I'm trying to operate with commits
-And go to git gui
-
-And now is git revert turn
-
+And go to git guy
